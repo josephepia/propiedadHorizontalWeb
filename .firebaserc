@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "propiedadhorizontal-f97c1"
+  },
+  "targets": {
+    "propiedadhorizontal-f97c1": {
+      "hosting": {
+        "production": [
+          "propiedadhorizontalsite"
+        ],
+        "develop": [
+          "propiedadhorizontaldevelop"
+        ]
+      }
+    }
+  }
+}
